@@ -1,1 +1,1 @@
-# Exam-Schedule-Generation by Searching (Local and Evolutionary)
+# Exam Schedule Generation by Searching (Local and Evolutionary)
